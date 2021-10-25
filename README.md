@@ -14,7 +14,7 @@ Code within the InfectionRisk folder includes the calculations of regional infec
 
 ## Data availablity
 ### Demographics and COVID-19 data
-Population data access can be requested [here](www.worldpop.org). WorldPop-aggregated population at the community level in Beijing is showed in the EXCEL file (CommunityAttr.xlsx)
+Population data access can be requested [here](www.worldpop.org). WorldPop-aggregated population at the community level in Beijing is showed in the EXCEL file (CommunityAttr.xlsx).
 COVID-19 data used in the study have been detailed in Supplementary Information and can be seen in CommunityAttr.xlsx.
 
 ### Mobile phone signaling data
