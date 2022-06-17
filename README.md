@@ -1,6 +1,6 @@
-# Mobility-based spatial sampling for city-level mass testing to contain COVID-19
+# Mobility-based sampling improves detection of emerging infections in mass testing
  
-This repository contains code and information regarding data access for "Mobility-based spatial sampling for city-level mass testing to contain COVID-19".
+This repository contains code and information regarding data access for "Mobility-based sampling improves detection of emerging infections in mass testing".
 
 Code within the InfectionRisk folder includes the calculations of regional infection risk derived from four spatial sampling approaches:
 
