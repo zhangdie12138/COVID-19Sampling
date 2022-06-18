@@ -20,7 +20,7 @@ Code within the SEIR folder includes the calculations of estimating epidemic tra
 
 ## Data availablity
 ### Demographics and COVID-19 data
-Population data access can be requested [here](www.worldpop.org). Aggregated population were seen in the file 'CommunityAttr.csv'.
+Population data access can be requested [here](www.worldpop.org). Aggregated population were seen in the file 'CommunityAttr.xlsx'.
 COVID-19 data used in the study have been detailed in Supplementary Information.
 
 ### Mobile phone signaling data
