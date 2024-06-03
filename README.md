@@ -1,6 +1,6 @@
-# Mobility-based sampling improves detection of emerging infections in mass testing
+# Optimizing the detection of emerging infections using mobility-based spatial sampling
  
-This repository contains code and information regarding data access for "Mobility-based sampling improves detection of emerging infections in mass testing".
+This repository contains code and information regarding data access for "Optimizing the detection of emerging infections using mobility-based spatial sampling".
 Provided codes and data were showed for the Beijing, while two metropolises, Beijing and Guangzhou, were tested in the study. 
 
 Code within the Mobility-based folder includes the calculations of regional infection risk derived from four spatial sampling approaches:
